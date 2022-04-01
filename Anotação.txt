@@ -1,0 +1,13 @@
+npm firebase ^8?
+
+npm install react-router-dom@5.x
+
+instalando biblioteca React-Toastify para alertas
+npm install react-toastify
+
+instalando biblioteca React-Icons para icones
+npm install react-icons
+
+instalando biblioteca date-fns para formatação da data
+npm install date-fns
+
